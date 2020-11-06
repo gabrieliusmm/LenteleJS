@@ -13,14 +13,4 @@ function createTable() {
 			let column = row.insertCell();
 		}
 	}
-
-
-	/*
-	let thead = table.createTHead();
-  	let row = thead.insertRow();
-	const taskList = document.querySelector('.todo');
-	let li = document.createElement('li');
-	li.textContent = task.value;
-	taskList.appendChild(li);
-	*/
 }
